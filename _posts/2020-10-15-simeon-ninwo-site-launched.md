@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Simeon Olorunninwo, Horrible Cop, Launches Site"
+title: "Simeon Olorunninwo, Launches Site"
 date: 2020-10-24
 ---
 
